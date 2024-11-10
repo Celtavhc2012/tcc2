@@ -1,0 +1,7 @@
+digraph {
+	Start [shape=circle]
+	Task1 [label="Task 1"]
+	Task2 [label="Task 2"]
+	Start -> Task1
+	Task1 -> Task2
+}

@@ -23,5 +23,11 @@ dist-ssr
 *.sln
 *.sw?
 
-./tcc willian
-tcc willian
+logs_eventos
+./logs_eventos
+
+simulated_logs
+./simulated_logs
+
+simulated_logs_dataframes
+./simulated_logs_dataframes
