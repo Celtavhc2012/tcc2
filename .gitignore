@@ -23,11 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-logs_eventos
-./logs_eventos
-
-simulated_logs
-./simulated_logs
-
-simulated_logs_dataframes
-./simulated_logs_dataframes
+*.csv
+*.xes
